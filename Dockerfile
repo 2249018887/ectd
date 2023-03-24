@@ -1,1 +1,1 @@
-FROM docker.io/python:3.9.16
+FROM python:3.9.16
